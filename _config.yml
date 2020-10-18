@@ -12,7 +12,7 @@ github_repo: "https://github.com/dfterok/dfterok.github.io.git" # your code repo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-dft-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/dft-C60_isosurface.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
