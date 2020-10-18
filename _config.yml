@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Dfter",
-        href: "http://dfter.net"
+        title: "BigBrosci",
+        href: "https://www.bigbrosci.com/"
     },{
-        title: "简书·Dfter",
-        href: "http://www.jianshu.com/u/e7dft0ada2fd"
+        title: "学术之友-知乎",
+        href: "https://zhuanlan.zhihu.com/gangtangdft/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "CP2K",
+        href: "https://cp2k.org"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "VASP",
+        href: "https://vasp.at/"
     }
 ]
