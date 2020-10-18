@@ -2,10 +2,10 @@
 title: DFTer Blog
 SEOTitle: DFTer | DFTER Blog
 header-img: img/post-bg-desk.jpg
-email: dfter@gmail.com
+email: dfterok@pm.me
 description: "Every failure is leading towards success."
 keyword: "DFT, DFT Blog, Dfter的博客, DFTer, VASP, CP2K, DFT, MDS"
-url: "http://dfterok.github.io"          # your host, for absolute URL
+url: "http://dfter.net"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/dfterok/dfterok.github.io.git" # your code repository
 
